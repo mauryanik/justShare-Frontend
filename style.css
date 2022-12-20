@@ -253,7 +253,7 @@
     transform: translate(50%, 60px);
     padding: 10px 20px;
     background: var(--light-blue);
-    color: #fff;
+    color: rgb(241, 51, 51);
     border-radius: 5px;
     font-size: 18px;
     box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1),
